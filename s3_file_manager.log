@@ -1,0 +1,76 @@
+2024-10-13 22:25:25,659 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-13 23:02:17,774 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-13 23:04:51,508 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-13 23:05:45,562 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-13 23:06:44,990 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-13 23:23:05,403 - INFO - Modern theme initialized
+2024-10-13 23:23:05,406 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-13 23:23:05,414 - INFO - S3Helper initialized
+2024-10-13 23:23:05,415 - INFO - Window setup complete
+2024-10-13 23:23:05,637 - INFO - Loaded 3 buckets
+2024-10-13 23:23:05,637 - INFO - CombinedInterface initialized for user: test12
+2024-10-13 23:24:57,160 - INFO - Starting upload of file: /home/nakshatramanglik/Desktop/Flower - 149rs.jpg
+2024-10-13 23:24:57,508 - INFO - Starting upload of file: /home/nakshatramanglik/Desktop/Flower - 149rs.jpg
+2024-10-13 23:24:58,427 - INFO - File uploaded successfully: Flower - 149rs.jpg
+2024-10-13 23:24:58,809 - INFO - File uploaded successfully: Flower - 149rs.jpg
+2024-10-13 23:25:13,667 - WARNING - Connection pool is full, discarding connection: btool.s3.us-east-1.amazonaws.com. Connection pool size: 10
+2024-10-13 23:25:14,881 - WARNING - Connection pool is full, discarding connection: btool.s3.us-east-1.amazonaws.com. Connection pool size: 10
+2024-10-13 23:26:09,363 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-13 23:27:28,993 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-16 09:27:13,575 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-16 09:34:19,923 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-16 09:36:41,699 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-16 09:39:05,156 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-16 09:48:37,655 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-16 09:55:47,331 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-16 09:57:03,534 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-16 10:01:05,109 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-16 10:16:07,852 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-17 22:30:06,373 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-17 22:34:46,669 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-17 22:35:41,701 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-17 22:41:37,431 - INFO - Modern theme initialized
+2024-10-17 22:41:37,433 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-10-17 22:41:37,441 - INFO - S3Helper initialized
+2024-10-17 22:41:37,441 - INFO - Window setup complete
+2024-10-17 22:41:38,257 - INFO - Loaded 3 buckets
+2024-10-17 22:41:38,257 - INFO - CombinedInterface initialized for user: test12
+2024-10-17 22:42:05,599 - INFO - Starting upload of file: /home/nakshatramanglik/Desktop/python_tool/aws_config.py
+2024-10-17 22:42:06,214 - INFO - File uploaded successfully: aws_config.py
+2024-10-17 22:42:41,234 - INFO - Loaded 3 buckets
+2024-10-18 22:04:53,260 - INFO - Found credentials in environment variables.
+2024-10-27 13:00:44,971 - INFO - Found credentials in environment variables.
+2024-10-27 13:03:11,333 - INFO - Found credentials in environment variables.
+2024-10-27 13:07:07,710 - INFO - Found credentials in environment variables.
+2024-10-27 13:08:57,736 - INFO - Found credentials in environment variables.
+2024-10-27 13:10:21,487 - INFO - Found credentials in environment variables.
+2024-10-27 18:13:29,637 - INFO - Found credentials in environment variables.
+2024-10-27 18:17:04,617 - INFO - Found credentials in environment variables.
+2024-10-27 18:19:16,181 - INFO - Found credentials in environment variables.
+2024-10-27 18:20:13,962 - INFO - Found credentials in environment variables.
+2024-10-27 18:21:31,242 - INFO - Found credentials in environment variables.
+2024-10-27 18:22:19,702 - INFO - Found credentials in environment variables.
+2024-10-27 18:24:14,995 - INFO - Found credentials in environment variables.
+2024-10-27 18:27:21,982 - INFO - Found credentials in environment variables.
+2024-10-27 18:28:09,700 - INFO - Found credentials in environment variables.
+2024-10-27 18:28:44,092 - INFO - Found credentials in environment variables.
+2024-10-27 18:30:26,527 - INFO - Found credentials in environment variables.
+2024-10-27 18:31:20,164 - INFO - Found credentials in environment variables.
+2024-10-27 18:33:34,712 - INFO - Found credentials in environment variables.
+2024-10-31 22:24:08,622 - INFO - Found credentials in environment variables.
+2024-10-31 22:24:50,931 - INFO - Found credentials in environment variables.
+2024-10-31 22:43:22,445 - INFO - Found credentials in environment variables.
+2024-10-31 23:28:57,445 - INFO - Found credentials in environment variables.
+2024-10-31 23:41:57,561 - INFO - Found credentials in environment variables.
+2024-10-31 23:43:50,699 - INFO - Found credentials in environment variables.
+2024-10-31 23:44:51,436 - INFO - Found credentials in environment variables.
+2024-10-31 23:49:04,675 - INFO - Found credentials in environment variables.
+2024-10-31 23:51:14,210 - INFO - Found credentials in environment variables.
+2024-10-31 23:54:01,733 - INFO - Found credentials in environment variables.
+2024-10-31 23:55:46,728 - INFO - Found credentials in environment variables.
+2024-10-31 23:56:06,451 - INFO - Found credentials in environment variables.
+2024-10-31 23:56:31,433 - INFO - Found credentials in environment variables.
+2024-10-31 23:56:52,324 - INFO - Found credentials in environment variables.
+2024-10-31 23:57:16,492 - INFO - Found credentials in environment variables.
+2024-10-31 23:57:48,235 - INFO - Found credentials in environment variables.
+2024-11-01 00:00:32,276 - INFO - Found credentials in environment variables.
